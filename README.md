@@ -26,17 +26,7 @@ The goal of this project is to predict the price of a housing listing based on v
 
 ## Project Structure
 
-HousingPricePrediction/ 
-│ 
-├── data/ 
-│ └── otodom_data.csv # Dataset used for housing price prediction 
-├── notebooks/ 
-│ └── housing_price_prediction_notebook.ipynb # Jupyter notebook with data preprocessing, model building, and evaluation 
-├── models/ 
-│ ├── housing_price_predictor_model.pkl # Saved machine learning model 
-│ └── preprocessor.pkl # Saved preprocessing pipeline 
-├── README.md # Project documentation 
-└── requirements.txt # Python dependencies
+HousingPricePrediction/ │ ├── data/ │ └── otodom_data.csv # Dataset used for housing price prediction │ ├── notebooks/ │ └── housing_price_prediction_notebook.ipynb # Jupyter notebook with data preprocessing, model building, and evaluation │ ├── models/ │ ├── housing_price_predictor_model.pkl # Saved machine learning model │ └── preprocessor.pkl # Saved preprocessing pipeline │ ├── README.md # Project documentation └── requirements.txt
 
 
 ## Installation
